@@ -1,0 +1,10 @@
+For example.py, I have run the Spacy with two models - 1)en_core_web_md  and a simpler model 2)en_core_web_sm
+
+The findings are :
+
+The space simliarity index was way higher for en_core_web_md compared to en_core_web_sm for all of the comparisons , complaints, receipes etc.
+
+This is because en_core_web_md is advanced and has words vector loaded.
+
+Therefore the simliarity judgement as produced by en_core_web_sm is not quite useful.
+
