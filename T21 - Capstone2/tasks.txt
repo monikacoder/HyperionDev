@@ -1,0 +1,9 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+moni, running, run london marathon, 08 Jan 2023, 05 May 2023, No
+moni, gym, join a gym nearby home, 08 Jan 2023, 05 Oct 2023, No
+batman, castle, visit a castle, 08 Jan 2023, 10 Oct 2023, Yes
+monika, binge watch, watch a netflix series in a week, 08 Jan 2023, 07 Oct 2023, No
+moni, holidays, go for summer holidays to spain, 08 Jan 2023, 05 Apr 2023, No
+monika, horse riding, ride alone on a horse, 08 Jan 2023, 05 Mar 2023, Yes
+batman, tower climbing, climb the tallest mountain in UK, 15 Jan 2023, 10 Feb 2023, No
