@@ -1,0 +1,7 @@
+The total tasks are:                     9 
+The total completed tasks are:           3 
+The total not completed tasks are:       6 
+The total overdue tasks are:             1 
+The total non overdue tasks are:         8 
+The percentage of completed tasks are:   33.33333333333333 
+The percentage of overdue tasks are:     11.11111111111111 

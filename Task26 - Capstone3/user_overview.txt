@@ -1,0 +1,26 @@
+The total number of all the registered users are:  6 
+The total number of all the managed tasks are:     9 
+The total number of tasks assigned to 'admin' are:                           2
+The percentage of total number of tasks assigned to 'admin' are:             22.22222222222222
+The percentage of tasks assigned to user 'admin' that have been completed are:            50.0
+The percentage of tasks assigned to user 'admin' that have not been completed yet are:    50.0.
+The total number of tasks assigned to 'moni' are:                           3
+The percentage of total number of tasks assigned to 'moni' are:             33.33333333333333
+The percentage of tasks assigned to user 'moni' that have been completed are:            0.0
+The percentage of tasks assigned to user 'moni' that have not been completed yet are:    100.0.
+The total number of tasks assigned to 'monika' are:                           2
+The percentage of total number of tasks assigned to 'monika' are:             22.22222222222222
+The percentage of tasks assigned to user 'monika' that have been completed are:            50.0
+The percentage of tasks assigned to user 'monika' that have not been completed yet are:    50.0.
+The total number of tasks assigned to 'batman' are:                           2
+The percentage of total number of tasks assigned to 'batman' are:             22.22222222222222
+The percentage of tasks assigned to user 'batman' that have been completed are:            50.0
+The percentage of tasks assigned to user 'batman' that have not been completed yet are:    50.0.
+The total number of tasks assigned to 'super' are:                           0
+The percentage of total number of tasks assigned to 'super' are:             0.0
+The percentage of tasks assigned to user 'super' that have been completed are:    0
+The percentage of tasks assigned to user 'super' that have not been completed yet are:   0
+The total number of tasks assigned to 'ttt' are:                           0
+The percentage of total number of tasks assigned to 'ttt' are:             0.0
+The percentage of tasks assigned to user 'ttt' that have been completed are:    0
+The percentage of tasks assigned to user 'ttt' that have not been completed yet are:   0
